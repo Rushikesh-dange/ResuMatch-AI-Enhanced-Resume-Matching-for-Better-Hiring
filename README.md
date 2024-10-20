@@ -82,7 +82,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## **Contact**
 
 For questions, feedback, or support, please reach out to:  
-**Rushikesh dange **  
+**Rushikesh dange**  
 Email: dangerushi19@gmail.com 
 GitHub: https://github.com/Rushikesh-dange
 
