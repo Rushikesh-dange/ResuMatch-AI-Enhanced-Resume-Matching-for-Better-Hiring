@@ -19,7 +19,7 @@ Welcome to **ResuMatch**, the cutting-edge AI-powered resume screening solution!
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/resumatch.git
+   git clone (https://github.com/Rushikesh-dange/ResuMatch-AI-Enhanced-Resume-Matching-for-Better-Hiring.git)
    cd resumatch
    ```
 
@@ -82,9 +82,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## **Contact**
 
 For questions, feedback, or support, please reach out to:  
-**Your Name**  
-Email: your.email@example.com  
-GitHub: [Your GitHub Profile](https://github.com/yourusername)
+**Rushikesh dange **  
+Email: dangerushi19@gmail.com 
+GitHub: https://github.com/Rushikesh-dange
 
 ---
 
